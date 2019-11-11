@@ -9,3 +9,10 @@ GIT마스터를 사용해서 신속하면서도 완벽하게 오픈스택 환경
 
 오슨스택 설정 선행 조건
 
+4.2 registry node
+apt-get install docker 대시 apt install docker.io 로 수정
+
+enx10aabababd37
+
+5.ansible설정 시
+root로 ssh접속하는 방법 추가 : https://www.manualfactory.net/10144
